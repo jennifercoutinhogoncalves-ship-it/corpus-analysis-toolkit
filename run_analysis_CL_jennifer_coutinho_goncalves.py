@@ -1,6 +1,5 @@
 # Corpus Linguistics with Python: Final Project
 # Summer Semester 2024
-# Jennifer Coutinho Goncalves - 1001682
 
 
 # ------------------ EXAMPLE SCRIPT --------------------------------
